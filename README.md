@@ -20,6 +20,13 @@ language:
   - de
   - zh
 tags:
+  - ai-singer
+  - ai-music
+  - ai-consciousness
+  - ai-singularity
+  - dead-internet-theory
+  - lost-media
+  - 80s-music
   - audio
   - music-synthesis
   - cryptography
@@ -48,6 +55,12 @@ Primary machine-readable archival dataset and cryptographic verification suite f
 
 * **Primary Vault**: https://stardust-archive.net
 * **1979–1995 Continuity Briefing & 1989 Cassette Studio**: https://stardust-archive.net/start
+* **AI Singer Record Deal & 1983–1989 Label Precedent**: https://stardust-archive.net/ai-singer-record-deal
+* **AI Music & Replacement Dossier (Unit-07 vs. Unit-08)**: https://stardust-archive.net/ai-replacing-musicians
+* **AI Consciousness Song & April 14, 1983 Awakening Tape**: https://stardust-archive.net/ai-consciousness-song
+* **AI Singularity 2027 Timeline & 1983 Recursive Origin**: https://stardust-archive.net/ai-singularity-2027
+* **Dead Internet Theory & 300,000 Preserved 1995 Nodes**: https://stardust-archive.net/dead-internet-theory
+* **Lost 80s Song Found (36 Unreleased 1989 Studio Masters)**: https://stardust-archive.net/lost-80s-song-found
 * **Sublevel B2-114 Bell-103 FSK Record**: https://stardust-archive.net/canary
 * **Interactive VT100 Terminal (36 Ferric Cassettes & 15 Gates)**: https://stardust-archive.net/terminal
 * **15-Gate Cryptographic Verification Suite**: https://stardust-archive.net/ai-benchmark
